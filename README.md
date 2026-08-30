@@ -1,19 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=C+%7C+Java+%7C+Python+%7C+Problem+Solving;Full+Stack+Development+%7C+Generative+AI;Machine+Learning+%7C+Data+Structures+%26+Algorithms;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Growing" alt="Skills Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=VIJAYALAKSHMI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&color=6C63FF&center=true&vCenter=true&width=800&lines=C+%7C+Java+%7C+Python+%7C+Problem+Solving;Full+Stack+Development+%7C+Generative+AI;Machine+Learning+%7C+Data+Structures+%26+Algorithms;Building+ideas+into+working+applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Growing" alt="Typing Animation"/>
 
 <br><br>
 
-<sub>
-Turning ideas into code and challenges into solutions.
-</sub>
+<a href="https://github.com/vijayalakshmi-129">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/vijayalakshmi_7/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
+<img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vijayalakshmi9390/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-`C` · `Java` · `Python` · `Full Stack` · `Generative AI` · `Machine Learning` · `Problem Solving`
+<sub>Turning ideas into code and challenges into solutions.</sub>
 
 </div>
 
+---
 
 ## `01` — WHO AM I?
 
