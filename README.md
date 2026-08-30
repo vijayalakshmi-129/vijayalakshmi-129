@@ -1,34 +1,19 @@
 <div align="center">
 
-# VIJAYALAKSHMI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&center=true&vCenter=true&width=750&lines=C+%7C+Java+%7C+Python+%7C+Problem+Solving;Full+Stack+Development+%7C+Generative+AI;Machine+Learning+%7C+Data+Structures+%26+Algorithms;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Growing" alt="Skills Animation"/>
 
-### `BUILDING • LEARNING • SOLVING`
+<br><br>
 
-**Software Developer in Progress**
+<sub>
+Turning ideas into code and challenges into solutions.
+</sub>
 
-Generative AI · Full Stack · Cloud · Java · Problem Solving
+<br><br>
 
-<br>
-
-<a href="https://github.com/vijayalakshmi-129">
-<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/vijayalakshmi_7/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
-<img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vijayalakshmi9390/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+`C` · `Java` · `Python` · `Full Stack` · `Generative AI` · `Machine Learning` · `Problem Solving`
 
 </div>
 
----
 
 ## `01` — WHO AM I?
 
@@ -137,7 +122,7 @@ A complete full-stack application built to understand the flow between frontend,
 
 <div align="center">
 
-### CODING PROFILES
+## 💻 Coding Profiles
 
 <table>
 <tr>
@@ -194,39 +179,6 @@ Click to visit profile →
 </table>
 
 </div>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/vijayalakshmi_7/">
-<img src="https://cdn.simpleicons.org/leetcode" width="65" height="65" alt="LeetCode"/>
-</a>
-
-      
-
-<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
-<img src="https://cdn.simpleicons.org/hackerrank" width="65" height="65" alt="HackerRank"/>
-</a>
-
-      
-
-<a href="https://github.com/vijayalakshmi-129">
-<img src="https://cdn.simpleicons.org/github" width="65" height="65" alt="GitHub"/>
-</a>
-
-</p>
-
-<p align="center">
-<b>LeetCode</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>HackerRank</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>GitHub</b>
-</p>
-
 ---
 
 ## 🏆 Coding Milestones
@@ -239,7 +191,7 @@ Click to visit profile →
   </a>
 </p>
 
-**Problems Solved:** `XX+`
+**Problems Solved:** `570+`
 
 ---
 
@@ -251,18 +203,30 @@ Click to visit profile →
   </a>
 </p>
 
-**Problems Solved:** `XX+`
-
 
 ## `07` — CURRENTLY EXPLORING
 
-```text
-Generative AI       ███████████████░░░
-Full Stack          ██████████████░░░░
-Cloud               ████████████░░░░░░
-Java + DSA          ███████████████░░░
-Machine Learning    ███████████░░░░░░░
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&center=true&vCenter=true&width=700&lines=Exploring+Generative+AI+%F0%9F%A4%96;Building+Full+Stack+Applications+%F0%9F%8C%90;Learning+Cloud+Technologies+%E2%98%81%EF%B8%8F;Strengthening+Java+%26+DSA+%E2%98%95;Practicing+OOPs+%26+Problem+Solving+%F0%9F%A7%A0;Experimenting+with+Machine+Learning+%F0%9F%94%AC" alt="Currently Exploring"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Generative AI</b></td>
+<td align="center">🌐<br><b>Full Stack</b></td>
+<td align="center">☁️<br><b>Cloud</b></td>
+</tr>
+<tr>
+<td align="center">☕<br><b>Java & DSA</b></td>
+<td align="center">🧠<br><b>OOPs</b></td>
+<td align="center">🔬<br><b>Machine Learning</b></td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
