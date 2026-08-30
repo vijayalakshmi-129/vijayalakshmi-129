@@ -1,270 +1,273 @@
-# 👋 Hi, I'm Vijayalakshmi
+<div align="center">
 
-### 💻 Aspiring Software Developer | Generative AI | Full Stack | Cloud
+# VIJAYALAKSHMI
 
-I'm passionate about building practical applications, solving programming problems, and exploring modern technologies.
+### `BUILDING • LEARNING • SOLVING`
 
-I enjoy learning by building projects and continuously improving my technical and problem-solving skills.
+**Software Developer in Progress**
 
----
+Generative AI · Full Stack · Cloud · Java · Problem Solving
 
-## 🚀 About Me
-
-* 🤖 Exploring **Generative AI & AI-powered applications**
-* 🌐 Building **Full Stack Web Applications**
-* ☁️ Exploring **Cloud Technologies**
-* ☕ Improving my **Java, DSA & OOPs** skills
-* 🐍 Learning and working with **Python**
-* 🧠 Practicing **Problem Solving & Algorithms**
-* 🐙 Using **Git & GitHub** for version control and projects
-* 🚀 Interested in building real-world technology solutions
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://cdn.simpleicons.org/java" width="45" alt="Java"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/python" width="45" alt="Python"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="45" alt="JavaScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="45" alt="HTML5"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/css" width="45" alt="CSS3"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/php" width="45" alt="PHP"/>
-</p>
-
-### 🌐 Full Stack Development
-
-<p>
-<img src="https://cdn.simpleicons.org/react" width="45" alt="React"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vite" width="45" alt="Vite"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs" width="45" alt="Node.js"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/express" width="45" alt="Express.js"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" width="45" alt="MongoDB"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss" width="45" alt="Tailwind CSS"/>
-</p>
-
-### 🤖 Generative AI & Machine Learning
-
-`Generative AI` `Machine Learning` `YOLOv8` `Roboflow` `Google Colab`
-
-### ☁️ Cloud & DevOps
-
-`Cloud Computing` `Docker` `Kubernetes`
-
-### 🧠 Core Computer Science
-
-`Data Structures & Algorithms` `OOPs` `Problem Solving`
-
-### 🔧 Tools
-
-<p>
-<img src="https://cdn.simpleicons.org/git" width="45" alt="Git"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="45" alt="GitHub"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="45" alt="VS Code"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🍎 Fruit Freshness Detection
-
-A computer vision project that detects fresh and rotten fruits using **YOLOv8**.
-
-**Tech:** Python • YOLOv8 • Roboflow • Google Colab
-
----
-
-### 🧮 Full-Stack Calculator
-
-A full-stack calculator application with a React frontend, Node.js backend and MongoDB database.
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/vijayalakshmi_7/">
-<img src="https://cdn.simpleicons.org/leetcode" width="65" height="65" alt="LeetCode"/>
-</a>
-
-        
-
-<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
-<img src="https://cdn.simpleicons.org/hackerrank" width="65" height="65" alt="HackerRank"/>
-</a>
-
-        
+<br>
 
 <a href="https://github.com/vijayalakshmi-129">
-<img src="https://cdn.simpleicons.org/github" width="65" height="65" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<b>LeetCode</b>
-          
-
-<b>HackerRank</b>
-          
-
-<b>GitHub</b>
-
-</p>
-
-<p align="center">
-<i>Click the logo to visit my profile</i>
-</p>
-
----
-
-# 🟢 LeetCode
-
-<p align="center">
-
+&nbsp;
 <a href="https://leetcode.com/u/vijayalakshmi_7/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-</p>
-
-### 🏆 My LeetCode Badges
-
-<p align="center">
-
-<!-- Add your LeetCode badge images here -->
-
-</p>
-
-### 📊 Problems Solved
-
-**LeetCode:** `Add your solved count`
-
----
-
-# 🟠 HackerRank
-
-<p align="center">
-
+&nbsp;
 <a href="https://www.hackerrank.com/profile/vijayalakshmics4">
-<img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
-</p>
-
-### 🏆 My HackerRank Badges
-
-<p align="center">
-
-<!-- Add your HackerRank badge images here -->
-
-</p>
-
-### 📊 Problems Solved
-
-**HackerRank:** `Add your solved count`
-
----
-
-# 🐙 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vijayalakshmi-129&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayalakshmi-129&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-🤖 **Generative AI**
-
-🌐 **Full Stack Development**
-
-☁️ **Cloud Computing**
-
-☕ **Java & DSA**
-
-🧱 **OOPs**
-
-🐍 **Python**
-
-🐳 **Docker & Kubernetes**
-
-🧠 **Machine Learning**
-
----
-
-# 🎯 My Goal
-
-> **Learn. Build. Solve. Grow.**
-
-My goal is to become a strong software developer by combining **Generative AI, Full Stack Development and Cloud Technologies** while continuously improving my problem-solving skills.
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
+&nbsp;
 <a href="https://www.linkedin.com/in/vijayalakshmi9390/">
-<img src="https://cdn.simpleicons.org/linkedin" width="50" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-   
-
-<a href="https://github.com/vijayalakshmi-129">
-<img src="https://cdn.simpleicons.org/github" width="50" alt="GitHub"/>
-</a>
-
-   
-
-<a href="https://leetcode.com/u/vijayalakshmi_7/">
-<img src="https://cdn.simpleicons.org/leetcode" width="50" alt="LeetCode"/>
-</a>
-
-   
-
-<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
-<img src="https://cdn.simpleicons.org/hackerrank" width="50" alt="HackerRank"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## `01` — WHO AM I?
 
-⭐ **Thanks for visiting my profile!**
+I'm Vijayalakshmi, an aspiring software developer interested in the intersection of **software engineering and AI**.
+
+I like turning ideas into working applications — from full-stack systems and databases to computer-vision and AI experiments.
+
+Currently, I'm focused on becoming stronger at **building, problem solving and understanding how things work behind the interface.**
+
+---
+
+## `02` — WHAT I BUILD
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Generative AI
+Machine Learning
+Computer Vision
+YOLOv8
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 FULL STACK
+
+React
+Node.js
+Express
+MongoDB
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ CLOUD
+
+Cloud Computing
+Docker
+Kubernetes
+DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — TECHNOLOGIES
+
+**Languages**
+
+`Java` `Python` `JavaScript` `HTML` `CSS` `PHP`
+
+**Development**
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+**AI / ML**
+
+`Generative AI` `Machine Learning` `YOLOv8` `Roboflow`
+
+**Core**
+
+`DSA` `OOPs` `Problem Solving`
+
+**Tools**
+
+`Git` `GitHub` `Docker` `Kubernetes` `VS Code` `Google Colab`
+
+---
+
+## `04` — SELECTED WORK
+
+### `01 / Fruit Freshness Detection`
+
+**Computer Vision · YOLOv8 · Python**
+
+A computer-vision system designed to identify fresh and rotten fruits using YOLOv8.
+
+→ Dataset preparation
+→ Model training
+→ Object detection
+→ Evaluation & analysis
+
+---
+
+### `02 / Full-Stack Calculator`
+
+**React · Node.js · Express · MongoDB**
+
+A complete full-stack application built to understand the flow between frontend, backend APIs and database storage.
+
+→ React frontend
+→ REST API
+→ MongoDB persistence
+→ Full-stack integration
+
+---
+
+## `05` — PROBLEM SOLVING
+
+<div align="center">
+
+### CODING PROFILES
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://leetcode.com/u/vijayalakshmi_7/">
+
+<img src="https://cdn.simpleicons.org/leetcode" width="70"/>
+
+### LeetCode
+
+**Problem Solving**
+
+Click to visit profile →
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
+
+<img src="https://cdn.simpleicons.org/hackerrank" width="70"/>
+
+### HackerRank
+
+**Programming Practice**
+
+Click to visit profile →
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/vijayalakshmi-129">
+
+<img src="https://cdn.simpleicons.org/github" width="70"/>
+
+### GitHub
+
+**Projects & Code**
+
+Click to visit profile →
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `06` — CODING MILESTONES
+
+### LeetCode
+
+**Problems Solved:** `XX+`
+
+**Badges**
+
+<!-- Place your LeetCode badge images here -->
+
+---
+
+### HackerRank
+
+**Problems Solved:** `XX+`
+
+**Badges**
+
+<!-- Place your HackerRank badge images here -->
+
+---
+
+## `07` — CURRENTLY EXPLORING
+
+```text
+Generative AI       ███████████████░░░
+Full Stack          ██████████████░░░░
+Cloud               ████████████░░░░░░
+Java + DSA          ███████████████░░░
+Machine Learning    ███████████░░░░░░░
+```
+
+---
+
+## `08` — GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijayalakshmi-129&show_icons=true&hide_border=true&theme=transparent"/>
 
 <br><br>
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayalakshmi-129&hide_border=true&theme=transparent"/>
 
-</p>
+</div>
+
+---
+
+## `09` — THE DIRECTION
+
+I don't want to just collect technologies.
+
+I want to **understand them, build with them, and solve real problems with them.**
+
+```text
+LEARN → BUILD → BREAK → DEBUG → IMPROVE
+```
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="https://www.linkedin.com/in/vijayalakshmi9390/">LinkedIn</a>
+  ·   <a href="https://github.com/vijayalakshmi-129">GitHub</a>
+  ·   <a href="https://leetcode.com/u/vijayalakshmi_7/">LeetCode</a>
+  ·   <a href="https://www.hackerrank.com/profile/vijayalakshmics4">HackerRank</a>
+
+<br><br>
+
+`© Vijayalakshmi`
+
+</div>
