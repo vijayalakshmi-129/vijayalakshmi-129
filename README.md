@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- NEW ANIMATED HEADER SECTION -->
-<!-- *** ACTION REQUIRED: Upload your header.gif to your repo and update the URL below *** -->
-<img src="https://media.githubusercontent.com/media/vijayalakshmi-129/vijayalakshmi-129/main/assets/header.gif" alt="Vijayalakshmi - Software Developer | AI | Full Stack" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=VIJAYALAKSHMI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=400&color=00C9A7&center=true&vCenter=true&width=850&lines=%3E+initializing+developer_mode...;%3E+loading+C+%7C+Java+%7C+Python...;%3E+solving+problems+%26+building+projects...;%3E+exploring+Generative+AI...;%3E+exploring+Full+Stack+Development...;%3E+status%3A+learning+%7C+building+%7C+improving" alt="Developer Terminal Animation"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mongodb,git,github,docker&perline=6" width="650" alt="Technology Stack"/>
+
+<br><br>
+
+<sub>
+<strong>BUILDING</strong> · <strong>LEARNING</strong> · <strong>SOLVING</strong>
+</sub>
 
 <br><br>
 
@@ -33,6 +37,7 @@
 </div>
 
 ---
+
 ## `01` — WHO AM I?
 
 I'm Vijayalakshmi, an aspiring software developer interested in the intersection of **software engineering and AI**.
