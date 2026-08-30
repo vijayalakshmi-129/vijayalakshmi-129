@@ -74,23 +74,42 @@ Currently, I'm focused on strengthening my **programming fundamentals, DSA, full
 
 ## 💼 Experience
 
-### Web Development Intern
+<table>
+<tr>
 
-**Coginfyz Technologies** · `1 Month`
+<td width="33%" align="center">
 
----
+### Web Development
 
-### Full Stack Development Intern
+**Coginfyz Technologies**
 
-**Nandha Infotech** · `14 Days`
+`1 Month`
 
----
+</td>
 
-### Generative AI Intern
+<td width="33%" align="center">
 
-**Shell Code** · `14 Days`
+### Full Stack Development
 
----
+**Nandha Infotech**
+
+`14 Days`
+
+</td>
+
+<td width="33%" align="center">
+
+### Generative AI
+
+**Shell Code**
+
+`14 Days`
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🚀 Selected Work
 
@@ -117,10 +136,7 @@ A full-stack calculator application created to understand the complete flow betw
 `React UI` → `REST API` → `Backend Processing` → `MongoDB`
 
 ---
-
-## 🧠 Problem Solving
-
-<div align="center">
+## 💻 Coding Profiles
 
 <table>
 <tr>
@@ -131,15 +147,9 @@ A full-stack calculator application created to understand the complete flow betw
 
 <img src="https://cdn.simpleicons.org/leetcode" width="70"/>
 
-<br>
+### LeetCode
 
-<b>LeetCode</b>
-
-<br>
-
-Problem Solving
-
-<br><br>
+*Problem Solving*
 
 Click to visit profile →
 
@@ -153,15 +163,9 @@ Click to visit profile →
 
 <img src="https://cdn.simpleicons.org/hackerrank" width="70"/>
 
-<br>
+### HackerRank
 
-<b>HackerRank</b>
-
-<br>
-
-Programming Practice
-
-<br><br>
+*Programming Practice*
 
 Click to visit profile →
 
@@ -175,15 +179,9 @@ Click to visit profile →
 
 <img src="https://cdn.simpleicons.org/github" width="70"/>
 
-<br>
+### GitHub
 
-<b>GitHub</b>
-
-<br>
-
-Projects & Code
-
-<br><br>
+*Projects & Code*
 
 Click to visit profile →
 
@@ -195,7 +193,6 @@ Click to visit profile →
 </table>
 
 </div>
-
 ---
 
 ## 🏆 Coding Milestones
