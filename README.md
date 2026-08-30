@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&color=6C63FF&center=true&vCenter=true&width=800&lines=C+%7C+Java+%7C+Python+%7C+Problem+Solving;Full+Stack+Development+%7C+Generative+AI;Machine+Learning+%7C+Data+Structures+%26+Algorithms;Building+ideas+into+working+applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+%E2%80%A2+Growing" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=400&color=00C9A7&center=true&vCenter=true&width=850&lines=%3E+initializing+developer_mode...;%3E+loading+C+%7C+Java+%7C+Python...;%3E+solving+problems+%26+building+projects...;%3E+exploring+Generative+AI...;%3E+exploring+Full+Stack+Development...;%3E+status%3A+learning+%7C+building+%7C+improving" alt="Developer Terminal Animation"/>
 
 <br><br>
 
@@ -31,6 +31,7 @@
 </div>
 
 ---
+
 
 ## `01` — WHO AM I?
 
