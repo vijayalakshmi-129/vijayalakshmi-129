@@ -31,8 +31,6 @@
 </div>
 
 ---
-
-
 ## `01` — WHO AM I?
 
 I'm Vijayalakshmi, an aspiring software developer interested in the intersection of **software engineering and AI**.
