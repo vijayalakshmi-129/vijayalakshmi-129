@@ -197,27 +197,62 @@ Click to visit profile →
 
 ---
 
-## `06` — CODING MILESTONES
+## 💻 Coding Profiles
 
-### LeetCode
+<p align="center">
 
-**Problems Solved:** `XX+`
+<a href="https://leetcode.com/u/vijayalakshmi_7/">
+<img src="https://cdn.simpleicons.org/leetcode" width="65" height="65" alt="LeetCode"/>
+</a>
 
-**Badges**
+      
 
-<!-- Place your LeetCode badge images here -->
+<a href="https://www.hackerrank.com/profile/vijayalakshmics4">
+<img src="https://cdn.simpleicons.org/hackerrank" width="65" height="65" alt="HackerRank"/>
+</a>
+
+      
+
+<a href="https://github.com/vijayalakshmi-129">
+<img src="https://cdn.simpleicons.org/github" width="65" height="65" alt="GitHub"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>LeetCode</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>HackerRank</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>GitHub</b>
+</p>
 
 ---
 
-### HackerRank
+## 🏆 Coding Milestones
+
+### 🟢 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/vijayalakshmi_7/">
+    <img src="./leetcode-badges.png" width="700" alt="LeetCode Badges">
+  </a>
+</p>
 
 **Problems Solved:** `XX+`
 
-**Badges**
-
-<!-- Place your HackerRank badge images here -->
-
 ---
+
+### 🟠 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/vijayalakshmics4">
+    <img src="./hackerrank-badges.png" width="700" alt="HackerRank Badges">
+  </a>
+</p>
+
+**Problems Solved:** `XX+`
+
 
 ## `07` — CURRENTLY EXPLORING
 
