@@ -109,6 +109,9 @@ Currently, I'm focused on strengthening my **programming fundamentals, DSA, full
 
 </tr>
 </table>
+
+---
+
 ## 🚀 Selected Work
 
 ### 🏋️ Jaihind Sports Fit
@@ -134,6 +137,59 @@ A computer-vision project that detects fresh and rotten fruits and provides shel
 **Web Application · Full Stack Development**
 
 A smart canteen project designed to improve the canteen ordering experience and make food management more convenient through a digital platform.
+## 🚀 Selected Work
+
+### 🏋️ Jaihind Sports Fit
+
+**Sports & Fitness Website · Web Development**
+
+A sports and fitness website created to provide information and services through a clean, user-friendly web experience.
+
+🌐 **Live Website:** [jaihindsportsfit.in](https://jaihindsportsfit.in)
+
+### 🍎 Fruit Freshness Detection & Shelf-Life Recommendation
+
+**Computer Vision · YOLOv8 · Python · Roboflow**
+
+A computer-vision project that detects fresh and rotten fruits and provides shelf-life recommendations based on the detected freshness condition.
+
+**Workflow**
+
+`Dataset` → `YOLOv8 Training` → `Fruit Detection` → `Freshness Classification` → `Shelf-Life Recommendation`
+
+### 🍽️ Smart Canteen
+
+**Web Application · Full Stack Development**
+
+A smart canteen project designed to improve the canteen ordering experience and make food management more convenient through a digital platform.
+## 🚀 Selected Work
+
+### 🏋️ Jaihind Sports Fit
+
+**Sports & Fitness Website · Web Development**
+
+A sports and fitness website created to provide information and services through a clean, user-friendly web experience.
+
+🌐 **Live Website:** [jaihindsportsfit.in](https://jaihindsportsfit.in)
+
+### 🍎 Fruit Freshness Detection & Shelf-Life Recommendation
+
+**Computer Vision · YOLOv8 · Python · Roboflow**
+
+A computer-vision project that detects fresh and rotten fruits and provides shelf-life recommendations based on the detected freshness condition.
+
+**Workflow**
+
+`Dataset` → `YOLOv8 Training` → `Fruit Detection` → `Freshness Classification` → `Shelf-Life Recommendation`
+
+### 🍽️ Smart Canteen
+
+**Web Application · Full Stack Development**
+
+A smart canteen project designed to improve the canteen ordering experience and make food management more convenient through a digital platform.
+
+---
+
 ## 💻 Coding Profiles
 
 <table>
