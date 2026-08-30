@@ -109,33 +109,31 @@ Currently, I'm focused on strengthening my **programming fundamentals, DSA, full
 
 </tr>
 </table>
-
-
 ## 🚀 Selected Work
 
-### 🍎 Fruit Freshness Detection
+### 🏋️ Jaihind Sports Fit
+
+**Sports & Fitness Website · Web Development**
+
+A sports and fitness website created to provide information and services through a clean, user-friendly web experience.
+
+🌐 **Live Website:** [jaihindsportsfit.in](https://jaihindsportsfit.in)
+
+### 🍎 Fruit Freshness Detection & Shelf-Life Recommendation
 
 **Computer Vision · YOLOv8 · Python · Roboflow**
 
-A computer-vision system designed to identify fresh and rotten fruits using YOLOv8.
+A computer-vision project that detects fresh and rotten fruits and provides shelf-life recommendations based on the detected freshness condition.
 
 **Workflow**
 
-`Dataset Preparation` → `Model Training` → `Object Detection` → `Evaluation`
+`Dataset` → `YOLOv8 Training` → `Fruit Detection` → `Freshness Classification` → `Shelf-Life Recommendation`
 
----
+### 🍽️ Smart Canteen
 
-### 🧮 Full-Stack Calculator
+**Web Application · Full Stack Development**
 
-**React · Node.js · Express · MongoDB**
-
-A full-stack calculator application created to understand the complete flow between frontend, backend APIs, and database storage.
-
-**Workflow**
-
-`React UI` → `REST API` → `Backend Processing` → `MongoDB`
-
----
+A smart canteen project designed to improve the canteen ordering experience and make food management more convenient through a digital platform.
 ## 💻 Coding Profiles
 
 <table>
@@ -193,7 +191,7 @@ Click to visit profile →
 </table>
 
 </div>
----
+
 
 ## 🏆 Coding Milestones
 
@@ -235,7 +233,7 @@ Click to visit profile →
 
 </p>
 
----
+
 
 ## 🌱 Currently Exploring
 
