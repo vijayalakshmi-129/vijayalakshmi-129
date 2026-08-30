@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=VIJAYALAKSHMI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<!-- NEW ANIMATED HEADER SECTION -->
+<!-- *** ACTION REQUIRED: Upload your header.gif to your repo and update the URL below *** -->
+<img src="https://media.githubusercontent.com/media/vijayalakshmi-129/vijayalakshmi-129/main/assets/header.gif" alt="Vijayalakshmi - Software Developer | AI | Full Stack" width="100%"/>
 
 <br>
 
